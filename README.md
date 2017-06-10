@@ -24,5 +24,5 @@ This really helps when modelling government behaviours which change frequently w
 
 
 # To run from the cmdline
-mvn clean compile
-mvn exec:java
+- mvn clean compile
+- mvn exec:java
